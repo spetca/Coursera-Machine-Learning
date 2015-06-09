@@ -1,8 +1,8 @@
 #Regularized Linear Regression and Bias vs. Variance
 
 wrote:
--linearRegCostFunction.m - Regularized linear regression cost func-
-tion
+
+- linearRegCostFunction.m - Regularized linear regression cost function
 - learningCurve.m - Generates a learning curve
 - polyFeatures.m - Maps data into polynomial feature space
 - validationCurve.m - Generates a cross validation curve
